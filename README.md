@@ -30,7 +30,6 @@
 <a href="https://twitter.com/ridvan_bilgin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ridvan_bilgin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ridvan-bilgin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridvan-bilgin" height="30" width="40" /></a>
 <a href="https://instagram.com/_ridvanbilgin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ridvanbilgin" height="30" width="40" /></a>
-<a href="/https://blog.turkwm.com/feeds/posts/default" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.turkwm.com/feeds/posts/default" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
