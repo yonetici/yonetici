@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, NodeJS, NextJS**
 
-- 📝 I regularly write articles on [https://www.turkwm.com](https://www.turkwm.com)
+- 📝 I regularly write articles on [https://blog.turkwm.com](https://blog.turkwm.com)
 
 - 💬 Ask me about **Python, Php, SEO, Javascript**
 
