@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yonetici](https://github.com/yonetici)
 
-- 📝 I regularly write articles on [https://blog.turkwm.com](https://blog.turkwm.com)
+- 📝 I regularly write articles on [https://www.ridvanbilgin.com](https://www.ridvanbilgin.com)
 
 - 💬 Ask me about **Python,Javascript,PHP, Java, Databases and SEO**
 
-- 📫 How to reach me **hello@turkwm.com**
+- 📫 How to reach me **hello@ridvanbilgin.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ridvan-bilgin/](https://www.linkedin.com/in/ridvan-bilgin/)
 
