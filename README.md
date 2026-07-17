@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rıdvan BİLGİN</h1>
 <h3 align="center">Crafting innovative solutions as a software developer, fueled by creativity and passion from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yonetici&label=Profile%20views&color=0e75b6&style=flat" alt="yonetici" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yonetici" alt="yonetici" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ridvan_bilgin" target="blank"><img src="https://img.shields.io/twitter/follow/ridvan_bilgin?logo=twitter&style=for-the-badge" alt="ridvan_bilgin" /></a> </p>
